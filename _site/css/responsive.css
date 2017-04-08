@@ -26,7 +26,7 @@ PAGE: PORTFOLIO
 ***********************************************/
 
 #gallery li {
-  width: 28.3333%;
+  width: 28.33%;
 }
   
 #gallery li:nth-child(4n) {
